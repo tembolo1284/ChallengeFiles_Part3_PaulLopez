@@ -31,6 +31,10 @@ webpage that launches.
 I have two csv files in the Resources folder.  They are bitstamp.csv and coinbase.csv.  All that needs to be
 done by the user is hit the double arrow and run the code. If they want to select different dates or timeframes, they
 will be able to change that.  They can also filter the profitable trade tolerance which is currently set to 1%
+
+The user is also free to change the scaling of any of the plots that are used throughout the code if they feel
+they want a slightly different picture of things.
+
 That's it!
 
 
